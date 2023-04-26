@@ -23,6 +23,8 @@ body {
   overflow-x: hidden;
 }
 
+
+
 header {
   background: url("./images/Banner\ \(1\).png");
   padding-top: 50px;
@@ -506,20 +508,7 @@ svg {
   text-align: center;
 }
 
-.fa:hover {
-  background: #f79e0e;
-  padding-top: 10px;
-  margin-right: 10px;
-  height: 38px;
-  width: 38px;
-  border-radius: 0px;
-  text-align: center;
-  color: white;
-  border-radius: 50%;
-  border: solid 0.8px #f79e0e;
-  cursor: pointer;
-  transform: scale(1.1);
-}
+
 
 .fa {
   padding-top: 10px;
@@ -902,7 +891,7 @@ footer .logo {
 
   .logo {
     margin-right: 112px;
-}
+  }
 
   header {
     width: 100%;
@@ -956,7 +945,7 @@ footer .logo {
   }
 
   .DescList ul li {
-    list-style: url('/images/Vector\\(1\).png');
+    list-style: url("/images/Vector\\(1\).png");
     font-family: var(---mainFont);
     font-size: 14px;
     font-weight: 600;
@@ -1103,7 +1092,7 @@ footer .logo {
 
   .logo {
     margin-right: 112px;
-}
+  }
 
   header {
     width: 100%;
@@ -1298,9 +1287,11 @@ footer .logo {
     overflow-x: hidden;
   }
 
+  
+
   .logo {
     margin-right: 112px;
-}
+  }
 
   header {
     width: 100%;
@@ -1529,7 +1520,7 @@ footer .logo {
 
   .logo {
     margin-right: 112px;
-}
+  }
 
   header {
     width: 100%;
@@ -1744,7 +1735,7 @@ footer .logo {
 
   .logo {
     margin-right: 112px;
-}
+  }
 
   header {
     width: 100%;
@@ -1981,5 +1972,5 @@ footer .logo {
 
   .logo {
     margin-right: 112px;
-}
+  }
 }
